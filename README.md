@@ -1,22 +1,72 @@
-#PGlife# 
+🏠 PG Life
 
+PG Life is a web development project built as the final assignment for the Internshala Web Development course. The platform helps students and working professionals find suitable PG (Paying Guest) accommodations in major cities.
 
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
+🔧 Tech Stack
 
-Step 1: Watch Our Comprehensive Setup Video
-For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
+HTML5
 
-Video link: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
+CSS3
 
-Step 2: Get the Essential Components
+Bootstrap
 
-To get started, you'll need two crucial components:
+JavaScript
 
-a) GitHub Repository
-We've provided a GitHub repository that contains all the code and files necessary for your PGlife project. You can find it right here on this page.
+PHP
 
-b) Database Management System (DBMS)
-Our Database Management System is hosted separately on Google Drive. To access the database file, please refer to the link in the YouTube video description.
+MySQL
 
+✨ Features
 
-Please feel free to let me know if you have any further revisions or specific changes you'd like to make.
+🔍 Search PGs by city
+
+👤 Login/Signup system for users
+
+📄 Detailed PG listings with amenities
+
+🖼️ PG image gallery
+
+📱 Fully responsive design
+
+📁 Folder Structure
+
+Pglife/
+│
+├── css/
+├── js/
+├── images/
+├── includes/
+├── cities/
+├── index.php
+├── login.php
+├── signup.php
+└── README.md
+
+📸 Screenshots
+
+(Add screenshots here if available, or upload to GitHub and link them)
+
+📚 How to Run Locally
+
+Clone the repo:
+
+git clone https://github.com/Siddheshkapure/pg-life.git
+
+Copy the folder to your htdocs directory in XAMPP.
+
+Start Apache and MySQL from XAMPP Control Panel.
+
+Import the database file from /db/pg_life.sql into phpMyAdmin.
+
+Visit: http://localhost/Pglife
+
+📬 Contact
+
+For any queries or feedback, feel free to reach out:
+
+Siddhesh Kapure📧 siddheshkapure8@gmail.com🌐 GitHub
+
+⭐ Credits
+
+This project was developed as a part of the Internshala Web Development Course.
+
